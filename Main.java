@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, Jenkins! This is a test Java program.");
+        System.out.println("Hello Jenkins! New commit triggered this build.");
         
         // Call the test method
         testMethod();
